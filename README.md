@@ -1,2 +1,2 @@
 # timerbot
-simple timer bot for telegram
+simple timer bot for telegram.
